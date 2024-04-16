@@ -12,16 +12,18 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 
 ## Challenges
 
-### CMRxUniversalRecon
+### [CMRxUniversalRecon](https://cmrxrecon.github.io/2024/Home.html)
 
-The Universal Model for Cardiac MRI Reconstruction challenge (CMRxUniversalRecon) is a continuous challenge for Cardiac MRI reconstruction that was held at STACOM 2023. 
+The objective of establishing the Cardiac MRI Reconstruction challenge (Toward Universal Reconstruction) is to provide a benchmark that enables the broader research community to contribute to the important work of accelerated CMR imaging with universal approaches that allow more diverse applications and better performance in real-world deployment in various environments. There are two tasks in this challenge:
+1. Multi-contrast CMR reconstruction
+2. Random sampling CMR reconstruction
 
-For more information: [CMRxUniversalRecon website](https://cmrxrecon.github.io)
+For more information: [click here](https://cmrxrecon.github.io/2024/Home.html)
 
-### MBAS
+### [MBAS](https://codalab.lisn.upsaclay.fr/competitions/18516)
 
-The Multi-class Bi-Atrial Segmentation challenge (MBAS) aims to automatically segment both right and left atria from cardiac MRI.
+Building from the 2018 left atrium challenge, this Multi-class Bi-Atrial Segmentation (MBAS) challenge broadens to include both left and right atriums as well as their walls, focusing on multi-class machine learning from LGE-MRIs to enhance ablation for atrial fibrillation patients. The challenge objective is to benchmark methods for segmentation and biomarker identification, such as atrium volume and fibrosis, using 200 multi-center 3D LGE-MRIs with each scan meticulously labelled by three experts. 
 
-For more information: [MBAS website](https://codalab.lisn.upsaclay.fr/competitions/18516)
+For more information: [click here](https://codalab.lisn.upsaclay.fr/competitions/18516)
 
 
