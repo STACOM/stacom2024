@@ -15,3 +15,7 @@ header:
 5. Qian Tao, Delft University of Technology, the Netherlands
 6. Avan Suinesiaputra, King's College London, United Kingdom
 
+Challenge organisers:
+
+1. CMRxRecon 2024 - Chengyan Wang, Fudan University, China
+2. MBAS 2024 - Jichao Zhao, University of Auckland, New Zealand

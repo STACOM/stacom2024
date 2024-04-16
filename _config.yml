@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "STACOM 2024"
 title_separator          : "|"
-subtitle                 : "?? October 2024, Marrakesh, Morocco"
+subtitle                 : "10 October 2024, Marrakesh, Morocco"
 name                     : "STACOM"
 description              : "The 15th Statistical Atlases and Computational Modelling of the Heart Workshop"
 url                      : "https://stacom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -161,11 +161,8 @@ defaults:
       type: pages
     values:
       sidebar:
-#      - image: images/978-3-031-52448-6.png
-#        url: https://link.springer.com/book/10.1007/978-3-031-52448-6
-#        new_target: true
-      - table: key_dates
-      - nav: sidelinks
+        - nav: keydates
+        - nav: sidelinks
 
   # _posts
   - scope:

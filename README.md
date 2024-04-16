@@ -10,7 +10,7 @@ To maintain the website, please follow these steps:
 
 2. Clone the gh-pages branch: 
 ```
-$ git clone -b gh-pages git@github.com:STACOM/stacom2024.git
+git clone -b gh-pages git@github.com:STACOM/stacom2024.git
 ```
 
 3. Follow Jekyll guidelines to build static pages: https://jekyllrb.com/docs/
@@ -22,11 +22,11 @@ $ git clone -b gh-pages git@github.com:STACOM/stacom2024.git
 * To run local Jekyll with live update
 
 ```
-$ jekyll serve -l
+jekyll serve -l
 ```
 
 * For macos, you may need to prepend with
 
 ```
-$ bundle exec jekyll server -l
+bundle exec jekyll server -l
 ```

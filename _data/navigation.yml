@@ -11,6 +11,16 @@ main:
   - title: "Organisers"
     url: /contact/
 
+# key dates
+keydates:
+  - title: "Key dates"
+    children:
+    - title: "24 June - Paper submission"
+    - title: "15 July - Notification"
+    - title: "15 Aug - Workshop ready paper"
+    - title: "10 Oct - STACOM workshop"
+    - title: "10 Nov - Proceeding ready paper"
+
 # useful links
 sidelinks:
   - title: Useful links
