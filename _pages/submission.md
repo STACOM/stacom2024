@@ -27,6 +27,6 @@ The STACOM 2024 workshop will accept 8-page papers (LNCS-Springer format) as reg
 
 Selected papers will be published in a Lecture Notes in Computer Science proceeding published by Springer (see [previous STACOM proceedings](http://stacom.cardiacatlas.org/)).
 
-<!--
-<div style="text-align: center;"><a href="https://equinocs.springernature.com/service/STACOM2023" target="_blank" class="btn btn--info btn--large" style="margin-top: 50px; padding-left: 50px; padding-right: 50px;">Submit Now</a></div>
--->
+
+<div style="text-align: center;"><a href="https://equinocs.springernature.com/service/STACOM2024" target="_blank" class="btn btn--info btn--large" style="margin-top: 50px; padding-left: 50px; padding-right: 50px;">Submit Now</a></div>
+
