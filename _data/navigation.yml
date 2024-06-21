@@ -15,7 +15,8 @@ main:
 keydates:
   - title: "Key dates"
     children:
-    - title: "24 June - Paper submission"
+    - title: "24 June - Abstract / placeholder"
+    - title: "30 June - Paper submission"
     - title: "15 July - Notification"
     - title: "15 Aug - Workshop ready paper"
     - title: "10 Oct - STACOM workshop"
