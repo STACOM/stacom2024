@@ -1,0 +1,77 @@
+1. **Gaussian Process Emulators for Few-Shot Segmentation in Cardiac MRI**
+  <br>Viti, Thaler, Kapper, Urschler, Holler, Karabelas
+
+1. **Comparing Left Atrial Spontaneous Echo Contrast Intensity with Gaussian Process Emulator Predictions**
+  <br>Melidoro, Sabry, Sultan, Qureshi, Rajani, Lahoti, Klis, Montarello, Lip, Williams, Aslanidi, De Vecchi
+
+1. **Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation**
+  <br>Rygiel, Alblas, Brune, Yeung, Wolterink
+
+1. **Rotor Core Projection Ablation (RCPA): Novel Computational Approach to Catheter Ablation Therapy for Atrial Fibrillation**
+  <br>Obada, Ogbomo-Harmitt, Vandersickel, Van den Abeele, Hendrickx, Aslanidi
+
+1. **ResNet-based Convolutional Framework for Segmenting Left Atrial Scars and Cavities**
+  <br>Gunawardhana, Xu, Gu, Zhao
+
+1. **EAT-Mamba: Epicardial Adipose Tissue Segmentation from Multi-modal Dixon MRI**
+  <br>Feng, Hasaballa, Xu, Yang, Gu, Wen, Carlhäll, Zhao
+
+1. **Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**
+  <br>Garzia, Rygiel, Dummer, Wolterink, Celi
+
+1. **Peridevice leaks following left atrium appendage occlusion - analysis with morphology descriptive centerlines and explainable graph attention network**
+  <br>López Diez, Margeta, Gómez Herrero, Lulic, Willemen, Kofoed, De Backer, Paulsen
+
+1. **Implicit Neural Representations for Registration of Left Ventricle Myocardium During a Cardiac Cycle**
+  <br>Lowes, Pedersen, Hansen, Kofoed, Sermesant, Paulsen
+
+1. **Reducing the number of leads for ECG Imaging with Graph Neural Networks and meaningful latent space**
+  <br>Verardo, Perez, Bruchfeld, Boman, Chiesa, Koch, Maguire, Kostic
+
+1. **Automated pipeline for regional epicardial adipose tissue distribution analysis in the atria**
+  <br>Lluch, Castañeda, Vizitiu, Jacob, Jami, Audigier, Meister, Mihalef, Passerini
+
+1. **Can Interpretable Learning of Risk Explain Ventricular Arrhythmia Mechanism?**
+  <br>Ly, Finsterbach, Nuñez-Garcia, Cochet, Sermesant
+
+1. **3D Left Ventricular Reconstruction from 2D Echocardiograms for Reliable Volume Estimation**
+  <br>Jansen, Zhao, Ferdian, Creamer, Dillon, Verlyck, Quill, Poppe, Edwards, Legget, Doughty, Young, Nash
+
+1. **Improved 3D Whole Heart Geometry from Sparse CMR Slices**
+  <br>Xu, Xu, Sinclair , Puyol-Anton, Niederer, Chiribiri, Williams, Williams, Young
+
+1. **A novel MRI-based electrophysiological computational model of progressive doxorubicin-induced fibrosis in the left ventricle**
+  <br>Villar-Valero, Rodríguez Padilla, LY, Trenor, Sermesant, Pop
+
+1. **Comparative study of blood flow dynamics in AF Patients: CFD Simulations vs. 4D Flow MRI pre- and post-LAAO**
+  <br>Casademunt, Morales, Cepas-Guillén, Doltra, Mill, Saiz-Vivó, Flores-Umanzor, Sanchis, Freixa, Camara
+
+1. **Panoramic anatomical context in 3D intracardiac echocardiography (ICE) with 3D registration and geometry-based image fusion**
+  <br>Hickler, Neary-Zajiczek, Bandaru, Balle Sánchez, Hennersperger, Wörz
+
+1. **Automated estimation of cardiac stroke volumes from computed tomography**
+  <br>Radutoiu, Youssef, López Diez, Lindeskog, Pham, Pedersen, Fuchs, Kofoed, Paulsen, Sørensen
+
+1. **EigenBoundaries for the temporally regularized segmentation of echocardiographic images**
+  <br>Tziritas
+
+1. **Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation**
+  <br>Wickremasinghe, XU, Puyol-Anton, Aljabar, Razavi, King
+
+1. **Coronary Artery Calcium Scoring from Non-Contrast Cardiac CT Using Deep Learning With External Validation**
+  <br>Mo, Bos, Kavousi, Leening, Bron
+
+1. **Classification of Mitral Regurgitation from Cardiac Cine MRI using Clinically-Interpretable Morphological Features**
+  <br>On, Vimalesvaran, Zaman, Cole, Linton, Shun-Shin, Bharath, Howard, Varela
+
+1. **Physics-Informed Neural Networks can accurately model cardiac electrophysiology in 3D geometries and fibrillatory conditions**
+  <br>Chiu, Roy, Gupta, Levy, Galazis, Christensen, Mandic, Varela, Cechnicka, Cechnicka
+
+1. **Beyond the standards: Fully-Automated Aortic Annulus Segmentation on Contrast-free Magnetic Resonance Imaging using a Computational Aorta Unwrapping Method**
+  <br>Almar-Munoz, Pamminger, Kremser, Haltmeier, Mayr
+
+1. **Single-source Domain Generalization for Coronary Vessels Segmentation in X-ray Angiography**
+  <br>Atwany, Lashgari, Choudhury, Grau, Banerjee
+
+1. **Constraint-Based Model in Multimodal Learning to Improve Arrhythmia Risk Prediction**
+  <br>Njomgue, LY, Cochet, Sermesant
