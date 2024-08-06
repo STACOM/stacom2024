@@ -33,6 +33,15 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 <div style="text-align: center;"><a href="https://equinocs.springernature.com/service/STACOM2024" target="_blank" class="btn btn--info btn--large" style="margin-top: 10px; padding-left: 50px; padding-right: 50px;">Submit Your Paper</a></div>
 -->
 
+## Programmes
+
+**Keynote speaker:**<br>Professor Rasmus R. Paulsen (Technical University of Denmark)
+
+
+{% include rasmus %}
+
+
+
 ## Challenges
 
 {% include challenge.html 
