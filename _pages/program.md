@@ -9,4 +9,14 @@ header:
   image: /images/marrakesh_03.jpg
 ---
 
-**COMING SOON**
+## Regular papers (morning session)
+
+{% include schedule %}
+
+## Cardiac MRI Reconstruction challenge (afternoon session)
+
+{% include schedule_cmrxrecon %}
+
+## Multiclass Bi-Atrial Segmentation challenge (afternoon session)
+
+{% include schedule_mbias %}

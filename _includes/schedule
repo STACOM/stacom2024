@@ -1,1 +1,15 @@
-TBA
+{: .notice--info}
+| 08:00-08:10 | Welcome |
+| 08:10-09:00 | **Keynote: Prof Rasmus R. Paulsen - Technical University of Denmark**<br>{% include rasmus %} |
+| 09:00-10:00 | **Oral Session 1** |
+| 09:00-09:15 | Gaussian Process Emulators for Few-Shot Segmentation in Cardiac MRI<br>*__Bruno Viti__, Franz Thaler, Kathrin Lisa Kapper, Martin Urschler, Martin Holler, Elias Karabelas* |
+| 09:15-09:30 | Comparing Left Atrial Spontaneous Echo Contrast Intensity with Gaussian Process Emulator Predictions<br>*__Paolo Melidoro__, Malak Sabry, Abdel Rahman Amr Sultan, Ahmed Qureshi, Gregory Y.H Lip, Natalie Montarello, Nishant Lahoti, Ronak Rajani, Magdalena Klis, Steven E. Williams, Oleg Aslanidi, Adelaide De Vecchi* |
+| 09:30-09:45 | EAT-Mamba: Epicardial Adipose Tissue Segmentation from Multi-modal Dixon MRI<br>*__Fan Feng__, Abdallah Hasaballa, Fangqiang Xu, Jiayuan Yang, Yun Gu, Grace Wen, Carl-Johan Carlhäll, Jichao Zhao* |
+| 09:45-10:00 | Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging<br>*__Simone Garzia__, Patryk Rygiel, Sven Dummer, Filippo Cademartiri, Simona Celi, Jelmer M. Wolterink* |
+| 10:00-10:30 | *Coffee break* |
+| 10:30-11:00 | **Oral Session 2** |
+| 10:30-10:45 | Implicit Neural Representations for Registration of Left Ventricle Myocardium During a Cardiac Cycle<br>*__Mathias Lowes__, Jonas J Pedersen, Bjørn SHansen, Klaus F Kofoed, Maxime Sermesant, Rasmus R Paulsen* |
+| 10:45-11:00 | Can Interpretable Learning of Risk Explain Ventricular Arrhythmia Mechanism?<br>*__Buntheng LY__, Sonny Finsterbach, Marta Nuñez-Garcia, Hubert Cochet, Maxime Sermesant*|
+| 11:00-11:30 | **Poster teaser** |
+| 11:30-12:25 | **Poster session** (see [list of accepted papers]({{ "papers" | relative_url }})) |
+| 12:25-12:30 | Prizes and closing remarks + intro MBAS & CMRxRecon challenges |

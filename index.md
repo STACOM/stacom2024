@@ -33,16 +33,15 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 <div style="text-align: center;"><a href="https://equinocs.springernature.com/service/STACOM2024" target="_blank" class="btn btn--info btn--large" style="margin-top: 10px; padding-left: 50px; padding-right: 50px;">Submit Your Paper</a></div>
 -->
 
-## Programmes
+### Schedule
 
-**Keynote speaker:**<br>Professor Rasmus R. Paulsen (Technical University of Denmark)
+The STACOM 2024 programme is split into morning session for the regular papers and afternoon session for the CMRxRecon and MBIAS challenges. 
 
+#### Morning session: regular papers
 
-{% include rasmus %}
+{% include schedule %}
 
-
-
-## Challenges
+#### Afternoon session: 
 
 {% include challenge.html 
 title="Cardiac MRI Reconstruction Challenge" 
@@ -50,8 +49,16 @@ url="https://cmrxrecon.github.io/2024/Home.html"
 image="/images/CMRxRecon-Poster 2024.jpg"
 description="The objective of establishing the Cardiac MRI Reconstruction challenge is to provide a benchmark that enables the broader research community to contribute to the important work of accelerated CMR imaging with universal approaches that allow more diverse applications and better performance in real-world deployment in various environments. There are two tasks in this challenge: *multi-contrast CMR reconstruction* and *random sampling CMR reconstruction*." %}
 
+Schedule:
+
+{% include schedule_cmrxrecon %}
+
 {% include challenge.html 
 title="Multiclass Bi-Atrial Segmentation Challenge" 
 url="https://codalab.lisn.upsaclay.fr/competitions/18516" 
 image="/images/mbas2024.png" 
 description="Building from the 2018 left atrium challenge, this Multi-class Bi-Atrial Segmentation (MBAS) challenge broadens to include both left and right atriums as well as their walls, focusing on multi-class machine learning from LGE-MRIs to enhance ablation for atrial fibrillation patients. The challenge objective is to benchmark methods for segmentation and biomarker identification, such as atrium volume and fibrosis, using 200 multi-center 3D LGE-MRIs with each scan meticulously labelled by three experts." %}
+
+Schedule:
+
+{% include schedule_mbias %}
