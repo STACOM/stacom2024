@@ -41,7 +41,17 @@ The STACOM 2024 programme is split into morning session for the regular papers a
 
 {% include schedule %}
 
-#### Afternoon session: 
+#### Afternoon session: challenges
+
+{% include challenge.html 
+title="Multiclass Bi-Atrial Segmentation Challenge" 
+url="https://codalab.lisn.upsaclay.fr/competitions/18516" 
+image="/images/mbas2024.png" 
+description="Building from the 2018 left atrium challenge, this Multi-class Bi-Atrial Segmentation (MBAS) challenge broadens to include both left and right atriums as well as their walls, focusing on multi-class machine learning from LGE-MRIs to enhance ablation for atrial fibrillation patients. The challenge objective is to benchmark methods for segmentation and biomarker identification, such as atrium volume and fibrosis, using 200 multi-center 3D LGE-MRIs with each scan meticulously labelled by three experts." %}
+
+Schedule:
+
+{% include schedule_mbias %}
 
 {% include challenge.html 
 title="Cardiac MRI Reconstruction Challenge" 
@@ -53,12 +63,3 @@ Schedule:
 
 {% include schedule_cmrxrecon %}
 
-{% include challenge.html 
-title="Multiclass Bi-Atrial Segmentation Challenge" 
-url="https://codalab.lisn.upsaclay.fr/competitions/18516" 
-image="/images/mbas2024.png" 
-description="Building from the 2018 left atrium challenge, this Multi-class Bi-Atrial Segmentation (MBAS) challenge broadens to include both left and right atriums as well as their walls, focusing on multi-class machine learning from LGE-MRIs to enhance ablation for atrial fibrillation patients. The challenge objective is to benchmark methods for segmentation and biomarker identification, such as atrium volume and fibrosis, using 200 multi-center 3D LGE-MRIs with each scan meticulously labelled by three experts." %}
-
-Schedule:
-
-{% include schedule_mbias %}
