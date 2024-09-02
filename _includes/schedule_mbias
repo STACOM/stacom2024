@@ -1,3 +1,7 @@
+{: .notice--warning}
+<div style="text-align: center; margin-bottom: 1em;"><i><strong>coming soon</strong></i></div>
+
+<!--
 {: .notice--info}
 | 13:30-13:45 | Effective approach based on student-teacher self-supervised deep learning for Multi-class Bi-Atrial Segmentation Challenge<br>*__Moona Mazher__, Abdul Qayyum, Steven A. Niederer* |
 | 13:45-14:00 | Bidirectional Data Augmentation and Feature Swap for Multi-Class Bi-Atrial Segmentation<br>*__Wenzong Li__, Hui Liu, Sifan Miao, Lin Zhang* |
@@ -8,3 +12,4 @@
 | 15:00-15:15 | Multi-Loss 3D Segmentation for Enhanced Bi-Atrial Segmentation<br>*__Enrique Almar-Munoz__, Markus Tiefenthaler, Nohemi Sofia Leon-Contreras, and Adria Aguilar-Minguez* |
 | 15:15-15:30 | Results of the Multi-class Bi-atrial Segmentation Challenge<br>*__Jichao Zhao__, Johnny Xu and Fan Feng* |
 | 15:30-16:00 | Coffee break |
+-->
