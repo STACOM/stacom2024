@@ -13,10 +13,11 @@ header:
 
 {% include schedule %}
 
+## Multiclass Bi-Atrial Segmentation challenge (afternoon session)
+
+{% include schedule_mbias %}
+
 ## Cardiac MRI Reconstruction challenge (afternoon session)
 
 {% include schedule_cmrxrecon %}
 
-## Multiclass Bi-Atrial Segmentation challenge (afternoon session)
-
-{% include schedule_mbias %}
