@@ -1,7 +1,3 @@
-{: .notice--warning}
-<div style="text-align: center; margin-bottom: 1em;"><i><strong>coming soon</strong></i></div>
-
-<!--
 1. **Effective approach based on student-teacher self-supervised deep learning for Multi-class Bi-Atrial Segmentation Challenge**<br>Moona Mazher, Abdul Qayyum, Steven A. Niederer
 
 1. **Bidirectional Data Augmentation and Feature Swap for Multi-Class Bi-Atrial Segmentation**<br>Wenzong Li, Hui Liu, Sifan Miao, Lin Zhang
@@ -18,5 +14,4 @@
 
 1. **Results of the Multi-class Bi-atrial Segmentation Challenge**<br>Jichao Zhao, Johnny Xu and Fan Feng
 
--->
 
