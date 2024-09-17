@@ -163,6 +163,12 @@ defaults:
       sidebar:
         - nav: keydates
         - nav: sidelinks
+        - image: images/miccai2024.png
+          url: https://conferences.miccai.org/2024/en/
+          new_target: true
+        - image: images/fimh2025.png
+          url: https://fimh2025.sciencesconf.org/
+          new_target: true
 
   # _posts
   - scope:

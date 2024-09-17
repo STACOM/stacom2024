@@ -26,8 +26,6 @@ keydates:
 sidelinks:
   - title: Useful links
     children:
-    - title: "MICCAI 2024"
-      url: https://conferences.miccai.org/2024/en/
     - title: "Previous STACOMs"
       url: https://stacom.github.io/
     - title: "Submission portal"
