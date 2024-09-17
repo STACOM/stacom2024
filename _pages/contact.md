@@ -20,4 +20,4 @@ Challenge organisers:
 1. CMRxRecon 2024 - Chengyan Wang, Fudan University, China
 2. MBAS 2024 - Jichao Zhao, University of Auckland, New Zealand
 
-Contact: stacom<at>inria<dot>fr
+Contact: stacom@inria.fr
