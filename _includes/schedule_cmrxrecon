@@ -1,2 +1,8 @@
-{: .notice--warning}
-<div style="text-align: center; margin-bottom: 1em;"><i><strong>coming soon</strong></i></div>
+{: .notice--info}
+| 16:00-16:05 | **Welcome** |
+| 16:05-16:25 | **Keynote** Prof Daniel Rueckert - Technical University Munich<br>{% include daniel %} | |
+| 16:25-16:40 | Summary of the CMRxRecon2024 challenge: Dr. Chengyan Wang - Fudan University |
+| 16:40-17:10 | **Oral session 1** |
+| 17:10-17:20 | *short break* |
+| 17:20-17:50 | **Oral session 2** |
+| 17:50-18:00 | Prizes and closing remarks |

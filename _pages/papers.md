@@ -19,6 +19,5 @@ header:
 
 ## Cardiac MRI reconstruction challenge papers
 
-{: .notice--warning}
-<div style="text-align: center; margin-bottom: 1em;"><i><strong>coming soon</strong></i></div>
+{% include cmrxrecon %}
 
