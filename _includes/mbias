@@ -8,10 +8,19 @@
 
 1. **A self-distillation bi-atrial segmentation network for Cardiac MRI**<br>Waqas Anwaar, The van Manh, JiongTong Hu, Zhurong Chen, Wufeng Xue, Dong Ni
 
+1. **BAW-Seg: Attention-based Volumetric Network for Bi-Atrial Segmentation of LGE MRI**<br>Hui lin, Xi Cheng, Yihao Li, Philippe Zhang
+
+1. **SegBAW-Net: Segmentation of Bi-Atria and Wall Network**<br>Arthur Lefebvre, Natalia Trayanova
+
+1. **Evaluating Convolution, Attention, and Mamba Based U-Net Models for Multi-Class Bi-Atrial Segmentation from LGE-MRI nhanced MRIs**<br>Claas Thesing, Alfonso Bueno-Orovio, Abhirup Banerjee
+
+1. **An Ensemble Method for Multi-class Bi-Atrial Segmentation**<br>Lucas Beveridge, Le Zhang
+
+1. **Multi-class Bi-Atrial Segmentation Challenge**<br>Yu Hon On, Christoforos Galazis, Ching-En Chiu, Marta Varela
+
 1. **Residual encoder nnUnet for solving MBAS challenge**<br>Alexander Zolotarev, Caroline Roney
 
 1. **Multi-Loss 3D Segmentation for Enhanced Bi-Atrial Segmentation**<br>Enrique Almar-Munoz, Markus Tiefenthaler, Nohemi Sofia Leon-Contreras, and Adria Aguilar-Minguez
 
-1. **Results of the Multi-class Bi-atrial Segmentation Challenge**<br>Jichao Zhao, Johnny Xu and Fan Feng
 
 
