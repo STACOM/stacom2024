@@ -2,7 +2,15 @@
 | 16:00-16:05 | **Welcome** |
 | 16:05-16:25 | **Keynote** Prof Daniel Rueckert - Technical University Munich<br>{% include daniel %} | |
 | 16:25-16:40 | Summary of the CMRxRecon2024 challenge: Dr. Chengyan Wang - Fudan University |
-| 16:40-17:10 | **Oral session 1** |
+| 16:40-17:10 | **Oral session 1** Moderator: Dr. Chen Qin - Imperial College London|
+| 16:40-16:50 | Adaptive Unrolling Applied to the CMRxRecon2024 Challenge<br>Bingyu Xin (Rutgers University)|
+| 16:50-17:00 | Towards Universal Dynamic MRI Reconstruction<br>George Yiasemis (University of Amsterdam)|
+| 17:00-17:10 | An All-in-one Approach for Accelerated Cardiac MRI Reconstruction<br>Kian Anvari Hamedani (Shahid Beheshti University)|
+| 17:10-17:20 | Single Reconstruction Network for Varieties of Cardiac MRI<br>Chi Zhang (Stanford University)|
 | 17:10-17:20 | *short break* |
-| 17:20-17:50 | **Oral session 2** |
-| 17:50-18:00 | Prizes and closing remarks |
+| 17:20-17:50 | **Oral session 2** Moderator: Dr. Shuo Wang - Fudan University |
+| 17:20-17:30 | HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss<br>Ilkay Oksuz (Istanbul Technical University)|
+| 17:30-17:40 | Cardiac MR deep learning reconstruction with self-adaptive coil sensitivity map estimation<br>Zhenxi Zhang |
+| 17:40-17:50 | An End-to-end Deep Unrolling Network for Multi-Contrast Cardiac MRI Reconstruction<br>Zhihao Xue (Shanghai Jiao Tong University) |
+| 17:50-18:00 | UPCMR: A Universal Prompt-guided Model for Random Sampling Cardiac MRI Reconstruction<br>Donghang Lyu (Leiden Medical University Center) |
+| 18:00-18:10 | Prizes and closing remarks |
