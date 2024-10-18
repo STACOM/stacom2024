@@ -5,6 +5,19 @@ classes:
   - wide
 header:
   image: /images/marrakesh_01.jpg
+gallery:
+  - url: /images/photos/stacom2024_01.jpg
+    image_path: /images/photos/stacom2024_01.jpg
+    alt: ""
+    title: "STACOM 2024"
+  - url: /images/photos/stacom2024_02.jpg
+    image_path: /images/photos/stacom2024_02.jpg
+    alt: ""
+    title: "STACOM 2024"
+  - url: /images/photos/stacom2024_03.jpg
+    image_path: /images/photos/stacom2024_03.jpg
+    alt: ""
+    title: "STACOM 2024"
 ---
 
 <!--
@@ -23,8 +36,8 @@ Current submission clock:
 </div>
 -->
 
-{: .notice--info}
-<div style="text-align: center; margin-bottom: 1em;"><strong><font size="+2"><a href="papers">Accepted papers are available</a></font></strong></div>
+<!-- {: .notice--info}
+<div style="text-align: center; margin-bottom: 1em;"><strong><font size="+2"><a href="papers">Accepted papers are available</a></font></strong></div> -->
 
 {: .text-justify}
 The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** workshop has been running annually at MICCAI since 2010. The 15th edition of STACOM workshop is going to be held in conjunction with the [MICCAI 2024](https://conferences.miccai.org/2024/en/) in Marrakesh, Morocco. The STACOM workshop is aiming to create a collaborative forum for young/senior researchers (engineers, biophysicists, mathematicians) and clinicians, working on: statistical analysis of cardiac morphology and dynamics, computational modelling of the heart and fluid dynamics, data/models sharing, personalisation of cardiac electro-mechanical models, quantitative image analysis and translational methods into clinical practice.
@@ -32,6 +45,42 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 <!--
 <div style="text-align: center;"><a href="https://equinocs.springernature.com/service/STACOM2024" target="_blank" class="btn btn--info btn--large" style="margin-top: 10px; padding-left: 50px; padding-right: 50px;">Submit Your Paper</a></div>
 -->
+
+{% include figure popup=true image_path="/images/photos/STACOM2024.jpg" caption="STACOM 2024 Workshop" %}
+
+{% include gallery caption="Other photos from STACOM 2024." %}
+
+### Awards
+
+Congratulations to **Bruno Viti** for receiving **Best Oral Presentation** for his paper:
+
+{: .notice--success}
+<div>
+<span style="font-size:150%;">Gaussian Process Emulators for Few-Shot Segmentation in Cardiac MRI</span><br>
+<span style="font-size:125%;">Bruno Viti<sup style="font-size:x-small;">1,5</sup>, Franz Thaler<sup style="font-size:x-small;">3,4</sup>, Kathrin Lisa Kapper<sup style="font-size:x-small;">1,5</sup>, Martin Urschler<sup style="font-size:x-small;">2,5</sup>, Martin Holler<sup style="font-size:x-small;">1,5</sup>, and Elias Karabelas<sup style="font-size:x-small;">1,5</sup></span><br>
+<div style="font-size:smaller;">
+<sup style="font-size:x-small;">1</sup> Department of Mathematics and Scientific Computing, University of Graz, Austria<br>
+<sup style="font-size:x-small;">2</sup> Institute for Medical Informatics, Medical University of Graz, Austria<br>
+<sup style="font-size:x-small;">3</sup> Institute of Computer Graphics and Vision, Graz University of Technology, Austria<br>
+<sup style="font-size:x-small;">4</sup> Gottfried Schatz Research Center: Medical Physics and Biophysics, Medical University of Graz, Austria<br>
+<sup style="font-size:x-small;">5</sup> BioTechMed-Graz, Graz, Austria
+</div>
+</div>
+{: .text-center} 
+
+and to **Patryk Rygiel** for receiving **Best Poster Presentation** for his paper:
+
+{: .notice--success}
+<div>
+<span style="font-size:150%;">Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation</span><br>
+<span style="font-size:125%;">Patryk Rygiel<sup style="font-size:x-small;">1</sup>, Dieuwertje Alblas<sup style="font-size:x-small;">1</sup>, Christoph Brune<sup style="font-size:x-small;">1</sup>, Kak Khee Yeung<sup style="font-size:x-small;">2,3</sup>, and Jelmer M. Wolterink<sup style="font-size:x-small;">1</sup></span><br>
+<div style="font-size:smaller;">
+<sup style="font-size:x-small;">1</sup> Department of Applied Mathematics, University of Twente, The Netherlands<br>
+<sup style="font-size:x-small;">2</sup> Department of Surgery, Vrije Universiteit Amsterdam, The Netherlands<br>
+<sup style="font-size:x-small;">3</sup> Amsterdam Cardiovascular Sciences, Microcirculation, The Netherland
+</div>
+</div>
+{: .text-center} 
 
 ### Schedule
 
