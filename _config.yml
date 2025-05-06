@@ -161,6 +161,9 @@ defaults:
       type: pages
     values:
       sidebar:
+        - image: images/978-3-031-87756-8.png
+          url: https://link.springer.com/book/10.1007/978-3-031-87756-8
+          new_target: true
         - nav: keydates
         - nav: sidelinks
         - image: images/miccai2024.png
